@@ -32,10 +32,6 @@
 - ⚡ [**@sveltekit**](https://svelte.dev/) is my current tool of choice for creating web apps.
 - ⚡ I'm also fluent with **Python (Django &amp; Flask) and Native JS.**
 
-- ⚡ Ask Me About **Python, React, PHP, JS, HTML, CSS, SQL**
-
-- ⚡ Fun Fact About Me: **I am a pretty Quick Learner**
-
 ## Things I use (Languages and Tools):
 <div align="center">
 
