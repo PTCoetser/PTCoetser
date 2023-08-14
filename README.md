@@ -1,9 +1,9 @@
-# Hey there, I'm Paul Coetser 
+# Hey there, I'm Paul Coetser
 
 <div align="center">
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+Love+to+Code,+I've+been+doing+it+a+long+time;Python+%7C+React+%7C+Vue+%7C+SQL;PHP+%7C+X/HTML+%7C+SASS+%7C+JS+;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=7000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+enjoy+Coding,+I've+been+doing+it+a+while+now;Python+%7C+React+%7C+Vue+%7C+SQL;PHP+%7C+X/HTML+%7C+SASS+%7C+JS+;">
 
 ### Connect with me:
 
@@ -11,9 +11,9 @@
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
 [![Twitter Account](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PaullieCoetser)
 
-[![Medium Account](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PaulCoetser)
-[![DEV.TO Account](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/paulcoetser)
 [![HashNode Account](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@PaulCoetser)
+[![DEV.TO Account](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/paulcoetser)
+[![Medium Account](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PaulCoetser)
 [![Mozilla Account](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
 [![Ghost Account](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://ghost.org/@AwsomeMedia)
 
