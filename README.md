@@ -1,9 +1,9 @@
-## Hi, I'm Paul 
+## Paul Coetser 
 
 <div align="center">
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=5000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+Love+to+Code,+I've+been+doing+it+a+long+time;Python+%7C+React+%7C+Vue+%7C+SQL;PHP+%7C+X/HTML+%7C+SASS+%7C+JS+;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=6000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+Love+to+Code,+I've+been+doing+it+a+long+time;Python+%7C+React+%7C+Vue+%7C+SQL;PHP+%7C+X/HTML+%7C+SASS+%7C+JS+;">
 
 ### Connect with me:
 
