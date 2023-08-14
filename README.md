@@ -35,7 +35,7 @@
 ## Things I use (Languages and Tools):
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,express,next,nodejs,php,py,ruby,bash,docker,jenkins,aws,azure,firebase,netlify,gatsby,git,github,ps,figma,ai,blender,mysql,postgres,mongodb,bootstrap,tailwind,d3,sass,webpack,gulp,vscode&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,express,next,nodejs,php,py,ruby,bash,docker,jenkins,aws,azure,firebase,netlify,gatsby,git,github,ps,figma,ai,blender,mysql,postgres,mongodb,bootstrap,tailwind,d3,sass,webpack,gulp&perline=12&theme=dark)](https://skillicons.dev)
 
 <!-- <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
@@ -56,8 +56,8 @@
 
 ## 📺 Latest Projects
 <!-- PROJECTS:START -->
-- Hulu Interface | Integration with the IMDB API.
-I have deployed this app on firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
+- Just for kicks, I've built a Hulu Interface that pulls info from the IMDB API.
+- I have deployed this app to firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
 
 <!-- PROJECTS:END -->
 
