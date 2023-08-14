@@ -1,4 +1,4 @@
-## Hi, I'm Paul Coetser 
+# Hey there, I'm Paul Coetser 
 
 <div align="center">
 
