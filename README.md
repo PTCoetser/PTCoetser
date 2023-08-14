@@ -1,9 +1,9 @@
-# Hey there, I'm Paul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi, I'm Paul 
 
 <div align="center">
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=3000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+Love+to+Learn+New+Technologies;PHP+%7C+HTML+%7C+CSS+%7C+JS+;Python+%7C+React+%7C+Vue+%7C+SQL;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&duration=3000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=I+Love+to+Code+I've+been+doing+it+a+long+time;Python+%7C+React+%7C+Vue+%7C+SQL;PHP+%7C+X/HTML+%7C+SASS+%7C+JS+;">
 
 ### Connect with me:
 
