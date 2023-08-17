@@ -7,14 +7,12 @@ I am a Full-Stack Developer, doing both Back and Front End work. I have extensiv
 - I use containerised workflows via Docker, together with CLI's such as Drush and Lando to streamline my daily development routine. And ensure an AGILE approach to the work undertaken.
 - I also have experience with the large majority of current JS frameworks such as Vue, React & Webpack, together with Grunt & Gulp.
 - [**@sveltekit**](https://svelte.dev/) is my current tool of choice for creating web apps.
-- Experience with Design & UI
-- Extensive knowledge of Google Analytics, Tag Manager and Adwords, A/B testing with Optimizely. And technical SEO experience.
 - I'm also fluent with **Python (Django &amp; Flask)**
 
 ## Things I use (Languages and Tools):
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,express,next,nodejs,php,py,ruby,bash,docker,jenkins,aws,azure,firebase,netlify,gatsby,git,github,ps,figma,ai,blender,mysql,postgres,mongodb,bootstrap,tailwind,d3,sass,webpack,gulp&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,express,next,nodejs,php,py,docker,aws,firebase,netlify,git,github,blender,mysql,postgres,mongodb,bootstrap,tailwind,sass,webpack,gulp&perline=12&theme=dark)](https://skillicons.dev)
 
 <!-- <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
