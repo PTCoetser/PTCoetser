@@ -21,15 +21,6 @@ I am a Full-Stack Developer, doing both Back and Front End work. I have extensiv
 
 </div>
 
-## Contribution Graph:
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTCoetser&theme=gruvbox&hide_border=false" />
-    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ptcoetser&&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PTCoetser&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
-    <img height="180em" width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=PTCoetser&theme=dracula&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=PTCoetser /> -->
-</div>
-
 ## Latest Projects
 <!-- PROJECTS:START -->
 - Just for kicks, I've built a Hulu Interface that pulls info from the IMDB API.
