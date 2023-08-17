@@ -12,7 +12,7 @@ I am a Full-Stack Developer, doing both Back and Front End work. I have extensiv
 ## Things I use (Languages and Tools):
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,sass,webpack,gulp,react,vue,vite,svelte,mysql,postgres,mongodb,bootstrap,tailwind,express,next,docker,aws,firebase,netlify,git,github,blender&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,react,vue,vite,svelte,mysql,postgres,mongodb,express,next,sass,webpack,gulp,bootstrap,tailwind,docker,aws,firebase,netlify,git,github,blender&perline=12&theme=dark)](https://skillicons.dev)
 
 <!-- <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
