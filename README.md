@@ -4,10 +4,9 @@ I am a Full-Stack Developer, doing both Back and Front End work. I have extensiv
 
 - I previously worked at **[SEGA](https://sega.com/), [Cancer Research](https://www.cancerresearchuk.org/) &amp; [EDF Energy](https://www.edfenergy.com/prettycurious)**
 - I work mostly with Drupal 7/8/9, PHP, React & VueJS
-- I use containerised workflows via Docker, together with CLI's such as Drush and Lando to streamline my daily development routine. And ensure an AGILE approach to the work undertaken.
 - I also have experience with the large majority of current JS frameworks such as Vue, React & Webpack, together with Grunt & Gulp.
 - [**@sveltekit**](https://svelte.dev/) is my current tool of choice for creating web apps.
-- I'm also fluent with **Python (Django &amp; Flask)**
+- Sometimes I fiddle around with **Python (Django &amp; Flask)**
 
 ## Things I use (Languages and Tools):
 <div align="center">
