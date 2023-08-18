@@ -24,6 +24,6 @@ I am a Full-Stack Web Developer, doing both Back and Front End work. I have exte
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTCoetser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTCoetser&theme=gruvbox&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PTCoetser&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
