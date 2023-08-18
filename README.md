@@ -2,7 +2,9 @@
 
 [![Linkedin Account](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/coetserpaul)
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=PTCoetser)
+![image title](https://rushter.com/counter.svg)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
 ![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
