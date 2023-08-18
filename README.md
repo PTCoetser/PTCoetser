@@ -17,7 +17,7 @@ I am a Full-Stack Web Developer, doing both Back and Front End work. I have exte
 - Just for kicks, I've built a Hulu Interface that pulls info from the IMDB API.
 - I have deployed this app to firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
 
-![image title](https://rushter.com/counter.svg)
+![Profile Views](https://rushter.com/counter.svg)
 [![HitCount](https://hits.dwyl.com/PTCoetser/hulu-clone.svg)](https://hits.dwyl.com/PTCoetser/hulu-clone)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
 ![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
