@@ -2,7 +2,7 @@
 
 [![Linkedin Account](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/coetserpaul)
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
-[![Github Profile Views](https://komarev.com/ghpvc/?username=PTCoetser&style=flat-square&color=blue)](https://github.com/PTCoetser)
+![GitHub Views](https://komarev.com/ghpvc/?username=PTCoetser)
 
 I am a Full-Stack Web Developer, doing both Back and Front End work. I have extensive experience designing, developing & building Internet Applications, Websites and Databases. I am a registered Drupal Developer with both Drupal.org and Acquia.
 
