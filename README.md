@@ -2,13 +2,7 @@
 
 [![Linkedin Account](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/coetserpaul)
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=PTCoetser)
-![image title](https://rushter.com/counter.svg)
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
-![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
-[![HitCount](https://hits.dwyl.com/PTCoetser/hulu-clone.svg)](https://hits.dwyl.com/PTCoetser/hulu-clone)
 
 I am a Full-Stack Web Developer, doing both Back and Front End work. I have extensive experience designing, developing & building Internet Applications, Websites and Databases. I am a registered Drupal Developer with both Drupal.org and Acquia.
 
@@ -22,6 +16,11 @@ I am a Full-Stack Web Developer, doing both Back and Front End work. I have exte
 
 - Just for kicks, I've built a Hulu Interface that pulls info from the IMDB API.
 - I have deployed this app to firebase at [https://hulu-clone-f9922.web.app/](https://hulu-clone-f9922.web.app/).
+
+![image title](https://rushter.com/counter.svg)
+[![HitCount](https://hits.dwyl.com/PTCoetser/hulu-clone.svg)](https://hits.dwyl.com/PTCoetser/hulu-clone)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
+![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
 
 ## Things I use (Languages and Tools):
 <div align="center">
