@@ -4,6 +4,10 @@
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
 ![GitHub Views](https://komarev.com/ghpvc/?username=PTCoetser)
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
+![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
+[![HitCount](https://hits.dwyl.com/PTCoetser/hulu-clone.svg)](https://hits.dwyl.com/PTCoetser/hulu-clone)
+
 I am a Full-Stack Web Developer, doing both Back and Front End work. I have extensive experience designing, developing & building Internet Applications, Websites and Databases. I am a registered Drupal Developer with both Drupal.org and Acquia.
 
 - I previously worked at **[SEGA](https://sega.com/), [Cancer Research](https://www.cancerresearchuk.org/) &amp; [EDF Energy](https://www.edfenergy.com/prettycurious)**
