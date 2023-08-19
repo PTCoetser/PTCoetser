@@ -19,7 +19,8 @@ I am a Full-Stack Web Developer, doing both Back and Front End work. I have exte
 
 [![HitCount](https://hits.dwyl.com/PTCoetser/hulu-clone.svg)](https://hits.dwyl.com/PTCoetser/hulu-clone)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PTCoetser/hulu-clone/issues)
-![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
+![GitHub Deploy](https://github.com/PTCoetser/hulu-clone/actions/workflows/deploy.yml/badge.svg)
+![GitHub CI](https://github.com/PTCoetser/hulu-clone/actions/workflows/ci.yml/badge.svg)
 
 ## Things I use (Languages and Tools):
 <div align="center">
