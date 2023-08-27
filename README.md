@@ -24,7 +24,7 @@ I am a Full-Stack Web Developer, doing both Back and Front End work. I have exte
 ## Things I use (Languages and Tools):
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,py,nodejs,js,react,vue,gatsby,vite,svelte,mysql,postgres,mongodb,sass,webpack,gulp,bootstrap,tailwind,docker,aws,heroku,firebase,netlify,cloudflare,git,github,bash,blender&perline=&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,py,js,nodejs,react,vue,gatsby,vite,svelte,mysql,postgres,mongodb,sass,webpack,gulp,bootstrap,tailwind,docker,aws,firebase,netlify,heroku,cloudflare,git,github,bash,blender&perline=&theme=dark)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTCoetser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
