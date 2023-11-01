@@ -1,6 +1,6 @@
 # Hi, I'm Paul Coetser.
 
-[![Linkedin Account](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/coetserpaul)
+[![Linkedin Account](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/paul-coetser)
 [![Youtube Account](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PaulCoetser)
 ![GitHub Views](https://komarev.com/ghpvc/?username=PTCoetser&style=for-the-badge)
 
